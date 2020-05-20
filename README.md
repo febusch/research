@@ -6,7 +6,15 @@
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/felix-busch-45157194/"><img src="img/linkedin.png" width="25"></a>
 
 # About
-This repo holds public material belonging to my research projects. Feel free to contact me if you have any questions about the code or if you run into difficulties executing it.
+This repo holds public material belonging to my research projects. Feel free to contact me if you have any questions about the papers or if you run into difficulties executing the code.
+
+## Included
+Material is sorted by paper title and included in the folder 'code'.
+
+| Subfolder  | Title | Outlet  | DOI / Link |
+|:-------------: |:---------------:| :-------------:|:-------------:|
+| 2020-wage-disparities-women     | Gender Segregation, Occupational Sorting, and Growth of Wage Disparities Between Women |  Demography (forthcoming)   | [10.1007/s13524-020-00887-3](https://doi.org/10.1007/s13524-020-00887-3) |
+
 
 ## License
 MIT License
