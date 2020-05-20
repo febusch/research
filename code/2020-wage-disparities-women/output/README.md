@@ -1,0 +1,1 @@
+Contains some output, but most is displayed interactively without storing to disk automatically.
