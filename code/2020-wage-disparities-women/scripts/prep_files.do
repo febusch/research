@@ -14,7 +14,7 @@ clear
 // WORKING DIRECTORY MUST BE PROVIDED
 // The scripts are optimized to be run from paper directory ".../.../2020-wage-disparities-women".
 // If you choose another directory, you might have to correct relative paths in all other scripts.
-cd "/Users/felixbusch/Documents/06_Studium/09_Open_source/research/code/2020-wage-disparities-women"  
+cd "PLEASE_PROVIDE/2020-wage-disparities-women"  
 
 
 // Process Employment Surveys data
