@@ -6,7 +6,7 @@
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/felix-busch-45157194/"><img src="../../img/linkedin.png" width="25"></a>
 
 # Use
-The analysis is run in Stata. Make sure to install all external dependencies in the code, and see the section on **Data** for the required datasets.
+The preparation of files and the analysis are run in Stata. Make sure to install all external dependencies in the code, and see the section on **Data** for the required datasets.
 
 ## Folders & instructions
 

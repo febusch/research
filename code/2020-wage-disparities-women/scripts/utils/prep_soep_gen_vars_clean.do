@@ -135,7 +135,11 @@ label variable whour_deal "work hours per week as per contract"
 gen whour_deal_sq = whour_deal*whour_deal
 	
 // clean variable: work hours (real)
-label variable whour_real "real work hours"
+label variable whour_real "real work hours"	
+
+// clean variable: work hours (overtime)
+recode whour_over (-3 -2 -1 = .)  // missings OK because we only required for descriptives
+label variable whour_over "over-time work hours"
 	
 // generate variable: over work (50hrs+)
 gen over_work = .

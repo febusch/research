@@ -1,11 +1,11 @@
 // Run to prepare all files for analysis
 //
 // Before running: 
-// 		- include "SOEP-LONG_v32.1_stata_bilingual" in folder "input"
-//		- include "ZA2565_1992" in folder "input"
-//		- include "ZA3379_1999" in folder "input"
-//		- include "ZA4820_2006" in folder "input"
-//		- include "ZA5657_2012" in folder "input"
+// 		- include folder "SOEP-LONG_v32.1_stata_bilingual" in folder "input"
+//		- include folder "ZA2565_1992" in folder "input"
+//		- include folder "ZA3379_1999" in folder "input"
+//		- include folder "ZA4820_2006" in folder "input"
+//		- include folder "ZA5657_2012" in folder "input"
 //		- provide working directory in line 17
 
 
