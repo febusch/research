@@ -1,11 +1,13 @@
-
 <a href="https://scholar.google.com/citations?user=AW--DlgAAAAJ"><img src="../../img/scholar.png" width="25"></a>
 &nbsp;&nbsp;<a href="mailto:busch@soziologie.uzh.ch"><img src="../../img/mail.png" width="25"></a>
 &nbsp;&nbsp;<a href="https://www.fbusch.org/"><img src="../../img/www.png" width="25"></a>
 &nbsp;&nbsp;<a href="https://twitter.com/felixbusch3"><img src="../../img/twitter.png" width="25"></a>
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/felix-busch-45157194/"><img src="../../img/linkedin.png" width="25"></a>
 
-# Use
+# Documentation
+This material is made available by Felix Busch together with the article *Gender Segregation, Occupational Sorting, and Growth of Wage Disparities Between Women* ([link](https://doi.org/10.1007/s13524-020-00887-3)) published in Demography (2020). Any use of this repo's material in a publication should cite the original paper.
+
+## Use
 The preparation of files and the analysis are run in Stata. Make sure to install all external dependencies in the code, and see the section on **Data** for the required datasets.
 
 ## Folders & instructions

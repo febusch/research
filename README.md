@@ -13,7 +13,7 @@ Material is sorted by paper title and included in the folder 'code'.
 
 | Subfolder  | Title | Publication  | DOI / Link |
 |:-------------: |:---------------:| :-------------:|:-------------:|
-| 2020-wage-disparities-women     | Gender Segregation, Occupational Sorting, and Growth of Wage Disparities Between Women |  Demography (forthcoming)   | [10.1007/s13524-020-00887-3](https://doi.org/10.1007/s13524-020-00887-3) |
+| 2020-wage-disparities-women     | Gender Segregation, Occupational Sorting, and Growth of Wage Disparities Between Women |  Demography (online first)   | [10.1007/s13524-020-00887-3](https://doi.org/10.1007/s13524-020-00887-3) |
 
 
 ## License
