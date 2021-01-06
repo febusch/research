@@ -1,5 +1,5 @@
 // Run to replicate Figure 1
-// Title: "Median hourly wages in male-, mixed, and female-typed occupations 1992Ð2015, by gender (2015 euros, smooth)"
+// Title: "Median hourly wages in male-, mixed, and female-typed occupations 1992â€“2015, by gender (2015 euros, smooth)"
 
 
 cd "PLEASE_PROVIDE/2020-wage-disparities-women"

@@ -1,5 +1,5 @@
 // Run to replicate Figure 2
-// Title: "Percentage of women and men with tertiary degree, by occupational gender type, smooth, 1992Ð2015"
+// Title: "Percentage of women and men with tertiary degree, by occupational gender type, smooth, 1992â€“2015"
 
 
 cd "PLEASE_PROVIDE/2020-wage-disparities-women"
