@@ -13,6 +13,7 @@ Material is sorted by paper title and included in the folder 'code'.
 
 | Subfolder  | Title | Publication  | DOI / Link |
 |:-------------: |:---------------:| :-------------:|:-------------:|
+| 2018-occ-devaluation-feminization | Occupational Devaluation Due to Feminization? Causal Mechanics, Effect Heterogeneity, and Evidence from the United States, 1960 to 2010 | Social Forces, 96(3), 1351-1376 | [10.1093/sf/sox077](https://doi.org/10.1093/sf/sox077) |
 | 2020-wage-disparities-women     | Gender Segregation, Occupational Sorting, and Growth of Wage Disparities Between Women |  Demography, 57(3), 1063-1088   | [10.1007/s13524-020-00887-3](https://doi.org/10.1007/s13524-020-00887-3) |
 
 
