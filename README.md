@@ -6,7 +6,7 @@
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/felix-busch-45157194/"><img src="img/linkedin.png" width="25"></a>
 
 # About
-This repo holds public material belonging to my research projects. The source code is prepared in a way that makes replication of results as seemless as possible. Nonetheless, you will have to do some work yourself, like installing dependencies and providing paths to input data, in order to execute the code successfully. If you run into issues that you cannot resolve, feel free to contact me.
+This repo holds public material belonging to my research projects. The source code is prepared in a way that makes replication of results as seamless as possible. Nonetheless, you will have to do some work yourself, like installing dependencies and providing paths to input data, in order to execute the code successfully. If you run into issues that you cannot resolve, feel free to contact me.
 
 ## Included
 Material is sorted by paper title and included in the folder 'code'.
@@ -20,7 +20,7 @@ Material is sorted by paper title and included in the folder 'code'.
 ## License
 MIT License
 
-Copyright (c) 2020 Felix Busch
+Copyright (c) 2020-2021 Felix Busch
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
