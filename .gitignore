@@ -3,3 +3,5 @@ svg
 *.gph
 *.txt
 *.smcl
+
+.DS_Store

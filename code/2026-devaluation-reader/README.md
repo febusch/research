@@ -7,7 +7,7 @@
 # Documentation
 This material is made available by Felix Busch together with the chapter *Does an Occupation’s Percent Female Affect How Much it Pays? An Update on the Devaluation Thesis*, published together with **Paula England** in: 
 
-Grusky, David, Nima Dahir, and Claire Daviss (eds.). 2022. Social Stratification. 5th Edition. New York. Routledge.
+Jackson, Michelle, Nima Dahir, Claire Daviss, and David B. Grusky (eds.). 2026. Social Stratification. 5th Edition. London and New York. Routledge.
 
 Any use of this repo's material in a publication should cite the original paper.
 
